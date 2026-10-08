@@ -36,6 +36,7 @@ SKILLS=(
   "dietrichgebert/ponytail ponytail-gain"
   "dietrichgebert/ponytail ponytail-help"
   "blader/humanizer humanizer"
+  "pbakaus/impeccable impeccable"
 )
 
 for entry in "${SKILLS[@]}"; do
