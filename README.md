@@ -9,8 +9,8 @@ Skills installed at user level (`~/.claude/skills`), so Claude Code loads them i
 New machine (needs Node.js):
 
 ```bash
-git clone https://github.com/trinhdinhtai/dotfiles.git ~/dotfiles
-~/dotfiles/install-skills.sh
+git clone https://github.com/trinhdinhtai/dotfiles.git
+./dotfiles/install-skills.sh
 ```
 
 Adding a skill: add a `"<owner/repo> <skill-name>"` line to `SKILLS` in `install-skills.sh`, run the script, commit and push.
