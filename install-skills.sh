@@ -7,6 +7,18 @@ set -euo pipefail
 SKILLS=(
   "vercel-labs/skills find-skills"
   "cathrynlavery/diagram-design diagram-design"
+  "mattpocock/skills grill-me"
+  "mattpocock/skills grilling" # grill-me and grill-with-docs delegate to this one
+  "mattpocock/skills grill-with-docs"
+  "mattpocock/skills domain-modeling" # also needed by grill-with-docs
+  "mattpocock/skills improve-codebase-architecture"
+  "mattpocock/skills codebase-design" # needed by improve-codebase-architecture
+  "mattpocock/skills tdd"
+  "mattpocock/skills setup-matt-pocock-skills"
+  "mattpocock/skills triage"
+  "mattpocock/skills handoff"
+  "mattpocock/skills prototype"
+  "vercel-labs/agent-browser agent-browser"
 )
 
 for entry in "${SKILLS[@]}"; do
