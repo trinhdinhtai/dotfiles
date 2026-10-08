@@ -18,7 +18,24 @@ SKILLS=(
   "mattpocock/skills triage"
   "mattpocock/skills handoff"
   "mattpocock/skills prototype"
+  "mattpocock/skills teach"
+  "mattpocock/skills diagnosing-bugs"
+  "mattpocock/skills code-review"
+  "mattpocock/skills implement"
+  "mattpocock/skills ask-matt"
+  "mattpocock/skills wayfinder"
+  "mattpocock/skills research" # needed by wayfinder
+  "mattpocock/skills to-spec"
+  "mattpocock/skills to-tickets"
   "vercel-labs/agent-browser agent-browser"
+  "juliusbrussee/caveman caveman"
+  "dietrichgebert/ponytail ponytail"
+  "dietrichgebert/ponytail ponytail-review"
+  "dietrichgebert/ponytail ponytail-audit"
+  "dietrichgebert/ponytail ponytail-debt"
+  "dietrichgebert/ponytail ponytail-gain"
+  "dietrichgebert/ponytail ponytail-help"
+  "blader/humanizer humanizer"
 )
 
 for entry in "${SKILLS[@]}"; do
