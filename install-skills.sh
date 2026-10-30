@@ -37,6 +37,7 @@ SKILLS=(
   "dietrichgebert/ponytail ponytail-help"
   "blader/humanizer humanizer"
   "pbakaus/impeccable impeccable"
+  "cloudflare/security-audit-skill security-audit"
 )
 
 for entry in "${SKILLS[@]}"; do
