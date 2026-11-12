@@ -39,6 +39,7 @@ SKILLS=(
   "pbakaus/impeccable impeccable"
   "cloudflare/security-audit-skill security-audit"
   "shadcn/improve improve"
+  "tt-a1i/archify archify"
   # AgriciDaniel/claude-seo: extensions live under extensions/*/skills so each needs --full-depth;
   # the script handles that with a per-entry flag (see install loop below)
   "AgriciDaniel/claude-seo seo"
