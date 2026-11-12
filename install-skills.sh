@@ -38,6 +38,7 @@ SKILLS=(
   "blader/humanizer humanizer"
   "pbakaus/impeccable impeccable"
   "cloudflare/security-audit-skill security-audit"
+  "shadcn/improve improve"
   # AgriciDaniel/claude-seo: extensions live under extensions/*/skills so each needs --full-depth;
   # the script handles that with a per-entry flag (see install loop below)
   "AgriciDaniel/claude-seo seo"
